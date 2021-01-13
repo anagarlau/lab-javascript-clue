@@ -14,13 +14,13 @@ image: https://pbs.twimg.com/profile_images/506787499331428352/65jTv2uC.jpeg <br
 color: green <br>
 
 drOrchid<br>
-firstName: Doctor<br>
-lastName: Orchid<br>
-occupation: Scientist<br>
-age: 26<br>
-description: PhD in plant toxicology. Adopted daughter of Mr. Boddy<br>
-image: http://www.radiotimes.com/uploads/images/Original/111967.jpg<br>
-color: white<br>
+firstName: Doctor 
+lastName: Orchid 
+occupation: Scientist 
+age: 26 
+description: PhD in plant toxicology. Adopted daughter of Mr. Boddy 
+image: http://www.radiotimes.com/uploads/images/Original/111967.jpg 
+color: white 
 
 profPlum<br>
 firstName: Victor<br>
